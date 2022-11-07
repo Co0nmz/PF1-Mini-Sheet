@@ -1,0 +1,34 @@
+{
+  "id": "pf1-mini-charactersheet",
+  "title": "Pathfinder 1e Mini-Charactersheet",
+  "description": "Minimal character sheet for Pathfinder 1e for people who use a sheet outside of foundry.",
+  "authors": [{"name": "Co0n"}],
+  "url": "",
+  "flags": {},
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.287"
+  },
+  "esmodules": [
+    "./pf1-mini-charactersheet.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf1",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.82.2",
+          "verified": "0.82.2"
+        }
+      }
+    ],
+  },
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
